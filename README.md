@@ -1,10 +1,3 @@
-<div style="display: flex; justify-content: center;">
-    <img src="https://media.tenor.com/iRB7vrvhPR4AAAAj/data-code.gif" />
-</div>
-
-
-
-
 # Hey! Good to see you 🌲
 
 I'm a UK-based software developer with a strong focus on Python, though my interests extend beyond any single language. This platform serves both as a showcase for my ongoing projects and a personal archive, enabling me to revisit past work. My repositories are dynamic, reflecting my continuous journey from intermediate to advanced programming skills.
@@ -26,3 +19,11 @@ I'm a UK-based software developer with a strong focus on Python, though my inter
 
 #### Where to find me
 <p><a href="https://github.com/PureJD" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="www.linkedin.com/in/jonathan-davidson-9b0838293" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.codewars.com/users/PureJD/" target="_blank"><img alt="CodeWars" src="https://www.codewars.com/users/PureJD/badges/micro" /></a> 
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://media.tenor.com/iRB7vrvhPR4AAAAj/data-code.gif" />
+</div>
+
+
+
+
