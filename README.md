@@ -1,6 +1,21 @@
 # Hey! Good to see you 🌲
 
+
+
 I'm a UK-based software developer with a strong focus on Python, though my interests extend beyond any single language. This platform serves both as a showcase for my ongoing projects and a personal archive, enabling me to revisit past work. My repositories are dynamic, reflecting my continuous journey from intermediate to advanced programming skills.
+
+ <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&theme=dark&bg_color=00000000&icon_color=00FF00&text_color=00FF00"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&bg_color=00000000&icon_color=00FF00&text_color=00FF00"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&bg_color=00000000&icon_color=00FF00&text_color=00FF00" alt="GitHub Readme Stats for user purejd with icons, transparent background and green text and icons" style="max-width: 50%; flex-grow: 1;">
+  </picture>
+</div>
 
 ####  Languages and Tools
 
@@ -20,10 +35,8 @@ I'm a UK-based software developer with a strong focus on Python, though my inter
 #### Where to find me
 <p><a href="https://github.com/PureJD" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jonathan-davidson-9b0838293" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.codewars.com/users/PureJD/" target="_blank"><img alt="CodeWars" src="https://www.codewars.com/users/PureJD/badges/micro" /></a> 
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://media.tenor.com/iRB7vrvhPR4AAAAj/data-code.gif" />
-</div>
-
-
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAj/data-code.gif" alt="Animated GIF of coding" style="max-width: 50%; flex-grow: 1;">
+ 
 
 
