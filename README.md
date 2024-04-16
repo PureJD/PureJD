@@ -16,8 +16,8 @@ I'm a UK-based software developer with a strong focus on Python, though my inter
     />
     <img src="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&bg_color=00000000&icon_color=00FF00&text_color=00FF00" alt="GitHub Readme Stats for user purejd with icons, transparent background and green text and icons" style="max-width: 50%; flex-grow: 1; height: 195px;">
   </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purejd&hide_progress=true&bg_color=00000000&text_color=00FF00&icon_color=00FF00&layout=compact" alt="Top Languages Used by purejd, transparent background with green text" style="max-width: 50%; flex-grow: 1; height: 195px;">
 </div>
+
 
 
 
