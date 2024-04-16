@@ -4,7 +4,8 @@
 
 I'm a UK-based software developer with a strong focus on Python, though my interests extend beyond any single language. This platform serves both as a showcase for my ongoing projects and a personal archive, enabling me to revisit past work. My repositories are dynamic, reflecting my continuous journey from intermediate to advanced programming skills.
 
- <picture>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&theme=dark&bg_color=00000000&icon_color=00FF00&text_color=00FF00"
       media="(prefers-color-scheme: dark)"
@@ -13,9 +14,12 @@ I'm a UK-based software developer with a strong focus on Python, though my inter
       srcset="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&bg_color=00000000&icon_color=00FF00&text_color=00FF00"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&bg_color=00000000&icon_color=00FF00&text_color=00FF00" alt="GitHub Readme Stats for user purejd with icons, transparent background and green text and icons" style="max-width: 50%; flex-grow: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&bg_color=00000000&icon_color=00FF00&text_color=00FF00" alt="GitHub Readme Stats for user purejd with icons, transparent background and green text and icons" style="max-width: 50%; flex-grow: 1; height: 195px;">
   </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purejd&hide_progress=true&bg_color=00000000&text_color=00FF00&icon_color=00FF00&layout=compact" alt="Top Languages Used by purejd, transparent background with green text" style="max-width: 50%; flex-grow: 1; height: 195px;">
 </div>
+
+
 
 ####  Languages and Tools
 
