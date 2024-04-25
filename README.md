@@ -7,15 +7,16 @@ I'm a UK-based software developer with a strong focus on Python, though my inter
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&theme=dark&bg_color=00000000&icon_color=00FF00&text_color=00FF00"
+      srcset="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&theme=dark&bg_color=00000000&icon_color=0000FF&text_color=0000FF"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&bg_color=00000000&icon_color=00FF00&text_color=00FF00"
+      srcset="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&bg_color=00000000&icon_color=0000FF&text_color=0000FF"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&bg_color=00000000&icon_color=00FF00&text_color=00FF00" alt="GitHub Readme Stats for user purejd with icons, transparent background and green text and icons" style="max-width: 50%; flex-grow: 1; height: 195px;">
-  </picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=purejd&show_icons=true&bg_color=00000000&icon_color=0000FF&text_color=0000FF" alt="GitHub Readme Stats for user purejd with icons, transparent background and blue text and icons" style="max-width: 50%; flex-grow: 1; height: 195px;">
+</picture>
+
 </div>
 
 
